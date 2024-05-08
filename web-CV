@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Franki Nehemiah's Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8ecec;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        .section p {
+            margin: 10px 0;
+        }
+        .contact {
+            margin-top: 30px;
+            border-top: 2px solid #333;
+            padding-top: 20px;
+        }
+        .contact p {
+            margin: 10px 0;
+        }
+        .contact a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Franki Nehemiah</h1>
+            <p><strong>Objective: </strong>Eager to leverage my educational background in Computer Applications and hands-on experience in software development to contribute effectively to a dynamic and forward-thinking organization. Dedicated to utilizing my skills in programming, database management, and cloud computing to drive innovation and achieve organizational objectives while continuously enhancing my expertise through learning and professional development opportunities.</p>
+        </header>
+
+        <section class="section">
+            <h2>Education</h2>
+            <p><strong>MASTERS IN COMPUTER APPLICATIONS (MCA)</strong><br>Shri Ramdeobaba College of Engineering and Management<br>2022-2024<br>Modules: Object Oriented Programming, OS, Concepts of Software Engineering,
+                DBMS, Evolution in Communication Technologies, Computer Networks, Cloud
+                Computing.</p>
+            <p><strong>B.COM (COMPUTER APPLICATION) (BCCA)</strong><br>RTMNU (Nagpur University)<br>2016-2021<br>Modules: Python, Entrepreneurship Development, Management Information
+                Systems, Core Java, Database Management System, Business Economics,
+                Programming in C, Fundamentals of Computer, Principle of Business Management.
+                CGPA: 6.8</p>
+            <p><strong>HSC (XII)</strong><br>St. Paul Junior College, Nagpur<br>2014-2015</p>
+            <p><strong>SSC (X)</strong><br>Montfort School (C.B.S.E.), Nagpur<br>2012-2013</p>
+        </section>
+
+        <section class="section">
+            <h2>Academic Projects</h2>
+            <p><strong>Online Resume</strong><br>Dynamic and skillfully crafted personal portfolio showcasing Franki Nehemiah's expertise, projects, education, and achievements in the realm of computer applications and software development.(First Project deployed on the web)</p>
+            <p><strong>Hospital Management Systems</strong><br>Built a user-friendly Hospital Management System using Java and MySQL. Streamlined patient, doctor, and billing records with an intuitive interface. Improved efficiency, reduced manual paperwork, improved data consistency, and enhanced system security.</p>
+            <p><strong>AptiQuest (Quiz Web App)</strong><br>Our project is a user-friendly Quiz Web Application with secure user authentication. Users can create accounts, take quizzes, and view their scores privately. Admins can easily add new quizzes, and the interactive interface keeps users engaged with multiple-choice questions. Future plans include adding different difficulty levels and question types for a better learning experience.</p>
+        </section>
+
+        <section class="section">
+            <h2>Certificates</h2>
+            <p><strong>AWS Certified Cloud Practitioner</strong><br>Validation Number: a7cdd099ff29429c9f017269ed713cad</a> <br> Validation link :<a href="https://aws.amazon.com/verification">https://aws.amazon.com/verification </a></p>
+        </section>
+
+        <section class="section">
+            <h2>Skills</h2>
+            <p>Programming Languages (e.g., Java, Python, C)
+                Web Development (HTML)
+                Database Management (SQL, MySQL)
+                Cloud Computing (AWS)
+                Operating Systems (Linux)
+                MS Office
+                GitHub
+                Communication Skills
+                Critical Thinking
+                Planning Management
+                Problem Solving
+                Adaptive
+                Project Management
+                Active Listening</p>
+        </section>
+
+
+        <section class="section">
+            <h2>Hobbies</h2>
+            <p>Reading, Playing Musical Instruments, Playing Video Games, Travelling</p>
+        </section>
+
+        <section class="section">
+            <h2>Curricular Activities</h2>
+            <p>Attended Workshop on Aptitude Development <br> Participated in cricket department tournament</p>
+        </section>
+
+        <section class="contact">
+            <h2>Contact</h2>
+            <p>Mobile: +91-8208658366, +91-9673028738<br>Email: <a href="mailto:frankinehemiah@gmail.com">frankinehemiah@gmail.com</a><br>Address: 141 Indrayani Nagar, Gharkul society, Beltarodi RD, Besa, Nagpur 440037</p>
+        </section>
+    </div>
+</body>
+</html>
